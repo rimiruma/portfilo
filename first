@@ -1,0 +1,102 @@
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+   <meta charset="UTF-8">
+   <meta name="viewport" content="width=device-width,initial-scale=1.0">
+   <title>wev DEVEloper portfolio</title>
+</head>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="" styles="/portfolio.css">
+</head>
+
+<header class="header">
+   nav
+   <div class="banner contact">
+      <h3>class="nav-title">Mary</h3>
+      <ul>
+         <li><a href="">portfolio</a>/li>
+            <header>
+               <nav>
+                  <h3 class="nav-title">ma<span class="text-primary">r</span>y</h3>
+                  <div class="banner"> </div>
+
+                  <h3 class="bannergreeting">Hi, I am</h3>
+
+                  <h1 class="bannar-title">Mary hardy </h1>
+                  <p class="banner discription">Shot what able cold new see hold.Friendly as an betrayed formerly he.
+                     Morning because as to society behaved moments.
+                     morning because as to society</p>
+                  <button class="button primary">download cv</button>
+                  <button class="btn-primary">contact</button>
+
+
+                  <div>
+                     <img class=" profile-pic" src="images/hardy/.png" alt="">
+
+                  </div>
+                  <header>
+                     <main>
+                        <section class="about">
+                           <h3>class="<section>-title">name</h3>
+                           <p class="section-description">Mary hardy</p>
+
+
+                           </p>
+                           <div class="about-info-container">
+                              <div class="about-info">
+                                 <h4 class="info-title">Email</h4>
+                                 <p class="info-description">info@gmail.com</p>
+                              </div>
+                              <div class="about-info">
+                                 <h4 class="info-title">date of birth
+                                 </h4>
+                                 <p class="info-description">11 November 1987</p>
+
+                              </div>
+
+                              <h4 class="info-title"></h4>
+                              <p class="info-description"> </p>
+                           </div>
+                           <div class=" about-info">
+                              <h4 class="info-title">From</h4>
+                              <p class="info-description">los Angeles, USA</p>
+
+                           </div>
+                           <div>
+                              <section>
+
+                                 <!-- what i do section start -->
+                              </section>
+                              <h3>class="section-title>what i do</h3>
+                              <p=class="section-description">
+                                 I have more than 10 years experience building software for clients all over the world.
+                                 Below is a quick overview of my main technical skill sets and technologies i use. Want
+                                 to find out more about my experience? Check out my online resume and project portfolio.
+
+
+
+
+                                 </p>
+
+
+
+      </ul>
+      </nav>
+
+
+
+
+
+
+
+      </main>
+      <footer>
+
+      </footer>
+
+
+      <header
